@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="OpcodeFinder">
+    <file>PH.png</file>
+  </qresource>
+</RCC>
