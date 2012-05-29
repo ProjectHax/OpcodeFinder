@@ -1,0 +1,7 @@
+Silkroad Opcode Finder
+
+Requirements:
+Visual Studio 2010
+Qt
+
+I might use boost for regex searching.
